@@ -1,0 +1,6 @@
+*{
+    /*创建全局的 global.css(先准备着, 后面有用) , 以后有全局样式就可以写在这里*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
